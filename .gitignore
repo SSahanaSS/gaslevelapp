@@ -1,6 +1,16 @@
 # Node modules
 node_modules/
 
+
+gasapp/node_modules/
+gasapp/android/app/build/
+gasapp/android/build/
+gasapp/android/.gradle/
+gasapp/android/.idea/
+
+
+
+
 # Android build
 android/app/build/
 android/build/
