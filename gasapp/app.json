@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "gasapp",
+    "slug": "gasapp",
+    "version": "1.0.0",
+    "scheme": "gasapp",
+    "android": {
+      "package": "com.anonymous.gasapp",
+      "experimental": {
+        "newArchEnabled": true
+      }
+    }
+  }
+}
